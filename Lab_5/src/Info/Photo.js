@@ -5,7 +5,7 @@ class Photo extends Component {
       return (
         <div className="Photo">
         <div className="img">
-            <img src = "./images/image.jpg" width="280" height="320" alt ="Nikita"></img>
+            <img src = "./images/image.jpg" width="280" height="320" alt ="Andrey"></img>
         </div>
         </div>
       );
